@@ -1,6 +1,3 @@
-# finite-element-method-2d
-2D finite element solver for elliptic PDEs in C++
-
 # Finite Element Method for 2D Elliptic PDEs
 
 Scientific computing project developed during the M1 Applied Algebra program at Université Paris-Saclay.
